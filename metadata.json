@@ -1,0 +1,5 @@
+{
+  "name": "九宫格切图",
+  "description": "一款智能工具，可将16:9的九宫格拼图切分为独立的高清图片，支持自动去除黑边。",
+  "requestFramePermissions": []
+}
